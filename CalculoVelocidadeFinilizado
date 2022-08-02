@@ -1,0 +1,14 @@
+run:
+Qual a dist�ncia percorrida? 1000
+A dist�ncia percorrida foi de 1000.0KM
+Qual o tempo gasto ?  5
+O tempo gasto foi de 5.0Hrs
+Para encontrar a velocidade m�dia dividimos a dist�ncia 1000.0pelo tempo gasto no percurso 5.0.
+A velocidade m�dia � de 200.0KM/H 
+================== //==============================
+Qual o consumo do ve�culo? (KM/Litros)
+10
+Qual o valor do litro do combust�vel? 
+7
+O custo da viagem � de 700.0 reais
+BUILD SUCCESSFUL (total time: 19 seconds)
